@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/soofufa/static/css/main.f80e5bf3.chunk.css",
+    "main.css": "/soofufa/static/css/main.e3e3f29b.chunk.css",
     "main.js": "/soofufa/static/js/main.94fcf4c5.chunk.js",
     "main.js.map": "/soofufa/static/js/main.94fcf4c5.chunk.js.map",
     "runtime-main.js": "/soofufa/static/js/runtime-main.97b71c65.js",
@@ -12,8 +12,9 @@
     "static/js/3.63af2fca.chunk.js.map": "/soofufa/static/js/3.63af2fca.chunk.js.map",
     "index.html": "/soofufa/index.html",
     "static/css/2.cc77c331.chunk.css.map": "/soofufa/static/css/2.cc77c331.chunk.css.map",
-    "static/css/main.f80e5bf3.chunk.css.map": "/soofufa/static/css/main.f80e5bf3.chunk.css.map",
+    "static/css/main.e3e3f29b.chunk.css.map": "/soofufa/static/css/main.e3e3f29b.chunk.css.map",
     "static/js/2.792992b7.chunk.js.LICENSE.txt": "/soofufa/static/js/2.792992b7.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/soofufa/static/media/SourceSansPro-Regular.efa76f83.ttf",
     "static/media/arrowDown.839f925f.svg": "/soofufa/static/media/arrowDown.839f925f.svg",
     "static/media/arrowLeft.67ee9fbb.svg": "/soofufa/static/media/arrowLeft.67ee9fbb.svg",
     "static/media/arrowRight.70c5f121.svg": "/soofufa/static/media/arrowRight.70c5f121.svg",
@@ -50,7 +51,7 @@
     "static/js/runtime-main.97b71c65.js",
     "static/css/2.cc77c331.chunk.css",
     "static/js/2.792992b7.chunk.js",
-    "static/css/main.f80e5bf3.chunk.css",
+    "static/css/main.e3e3f29b.chunk.css",
     "static/js/main.94fcf4c5.chunk.js"
   ]
 }
